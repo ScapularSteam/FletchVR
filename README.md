@@ -1,4 +1,4 @@
-# Fletch VR
+# FletchVR
 
 
 FletchVR is a project consisting of a carrier board for the Wemos D1 mini, BMI160, TP4056, and some assorted diodes and resistors, alongside a matching Snap-fit enclosure.
